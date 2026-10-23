@@ -1,8 +1,6 @@
 
 #!/usr/bin/env bash
-
 set -uo pipefail
-
 # Usage:
 # TEST_URLS="http://localhost:4004/actuator/health http://localhost:4000/actuator/health" \
 #   bash tests/smoke-test.sh
